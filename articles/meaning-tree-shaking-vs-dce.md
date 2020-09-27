@@ -20,7 +20,7 @@ wikipediaより引用します。
 
 
 # まとめ
-TreeShakingは、javascriptに限るDeleteCodeEliminationという意味合いでした。
+TreeShakingは、ECMAscriptに限るDeleteCodeEliminationという意味合いでした。
 
 つまり、包含関係として**DeleteCodeElimination > TreeShaking**となります。
 
